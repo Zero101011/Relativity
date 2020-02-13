@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DirGravity.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Intermediate\Build\Win64\DirectionalGravityEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Intermediate\Build\Win64\UE4Editor\Development\DirGravity\Module.DirGravity.cpp.obj"
+"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Intermediate\Build\Win64\UE4Editor\Development\DirGravity\Module.DirGravity.gen.cpp.obj"
+"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Intermediate\Build\Win64\UE4Editor\Development\DirGravity\Default.rc2.res"
+/OUT:"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Intermediate\Build\Win64\UE4Editor\Development\DirGravity\UE4Editor-DirGravity.lib"
+/INCLUDE:IMPLEMENT_MODULE_DirGravity

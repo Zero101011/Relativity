@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DirectionalGravity.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Intermediate\Build\Win64\DirectionalGravityEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Intermediate\Build\Win64\UE4Editor\Development\DirectionalGravity\DirectionalGravity.cpp.obj"
+"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Intermediate\Build\Win64\UE4Editor\Development\DirectionalGravity\Default.rc2.res"
+/OUT:"D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Intermediate\Build\Win64\UE4Editor\Development\DirectionalGravity\UE4Editor-DirectionalGravity.lib"
+/INCLUDE:IMPLEMENT_MODULE_DirectionalGravity

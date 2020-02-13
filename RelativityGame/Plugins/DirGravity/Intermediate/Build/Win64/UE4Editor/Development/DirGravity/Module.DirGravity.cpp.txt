@@ -1,0 +1,67 @@
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Intermediate\Build\Win64\UE4Editor\Development\DirGravity\Definitions.DirGravity.h
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Source\DirGravity\Private\DirGravity.cpp
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Source\DirGravity\Public\DirGravity.h
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Source\DirGravity\Private\GravityCharacter.cpp
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Source\DirGravity\Public\GravityCharacter.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Intermediate\Build\Win64\UE4Editor\Inc\DirGravity\GravityCharacter.generated.h
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Source\DirGravity\Public\GravityMovementComponent.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Public\AI/RVOAvoidanceInterface.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RVOAvoidanceInterface.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PawnMovementComponent.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PawnMovementComponent.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\Interfaces/NetworkPredictionInterface.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NetworkPredictionInterface.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementComponent.generated.h
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Intermediate\Build\Win64\UE4Editor\Inc\DirGravity\GravityMovementComponent.generated.h
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Plugins\DirGravity\Source\DirGravity\Private\GravityMovementComponent.cpp
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/PhysicsVolume.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PhysicsVolume.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\AIModule\Classes\Navigation/PathFollowingComponent.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+d:\1606002\games\epic\ue_4.22\engine\source\runtime\navigationsystem\public\NavFilters/NavigationQueryFilter.h
+d:\1606002\games\epic\ue_4.22\engine\source\runtime\navigationsystem\public\NavAreas/NavArea.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+d:\1606002\games\epic\ue_4.22\engine\source\runtime\navigationsystem\public\NavigationSystemTypes.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationDataInterface.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationData.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AITypes.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AIResourceInterface.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIResourceInterface.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\PathFollowingComponent.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/Navigation/AvoidanceManager.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AvoidanceManager.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystem.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemBase.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemBase.generated.h
+d:\1606002\games\epic\ue_4.22\engine\source\runtime\navigationsystem\public\NavigationOctree.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationSystem.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavMesh\RecastNavMesh.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavMesh/NavMeshPath.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavigationPath.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationPath.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\RecastNavMesh.generated.h
+D:\1606002\Games\EPIC\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h

@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DirGravity.cpp.obj": [
+			"DirGravity.cpp.obj",
+			"GravityCharacter.cpp.obj",
+			"GravityMovementComponent.cpp.obj"
+		],
+		"Module.DirGravity.gen.cpp.obj": [
+			"DirGravity.init.gen.cpp.obj",
+			"GravityCharacter.gen.cpp.obj",
+			"GravityMovementComponent.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,2 @@
+D:\1606002\Documents\Unreal Projects\planetGravity\DirectionalGravity 4.22\Intermediate\Build\Win64\UE4Editor\Development\DirectionalGravity\Definitions.DirectionalGravity.h
+d:\1606002\documents\unreal projects\planetgravity\directionalgravity 4.22\source\directionalgravity\DirectionalGravity.h
